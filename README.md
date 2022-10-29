@@ -6,7 +6,6 @@ Atualmente estou no segundo período de Ciência da Computação na Universidade
 - 💡 Minha linguagem de programação principal é C
 - 🤓 fun fact: Meu celular é um número primo
 
-## EN:
 ## Hi! 👋
 I'm currently in the second period of Computer Science at Federal University of Paraná.
 
